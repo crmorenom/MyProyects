@@ -1,4 +1,3 @@
 # MyProyects
 
-Descargar la carpeta MyProyects --> Contiene Carpeta "crudusers"
-
+Descargar y Revisar documento Prerequisitos para poder ejecuta las APIS.docx
